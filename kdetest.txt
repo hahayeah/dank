@@ -1,0 +1,5 @@
+#kde git test file
+# this file created using kde
+# testing integration into git version control
+# later we will write a version controled
+# hello-world program in c++
